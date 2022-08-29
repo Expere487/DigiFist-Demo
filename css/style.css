@@ -1,0 +1,177 @@
+@media only screen and (max-width: 426px) {
+  .col-md-6 {
+    padding-left: 0px !important;
+  }
+
+  .text-area {
+    padding-left: 8px;
+    margin-top: -200px;
+    padding-top: 0 !important;
+    padding-bottom: 0;
+  }
+  .text-area h4 {
+    font-size: 20px !important;
+    font-family: "ITC Avant Garde Gothic Pro", sans-serif;
+    font-weight: 700;
+    color: #fff !important;
+  }
+  .text-area p {
+    display: none;
+  }
+  .text-area .link a {
+    color: #fff !important;
+    font-family: "avenir", sans-serif;
+    font-weight: 900;
+    font-size: 12px;
+    text-decoration: none;
+    border-bottom: 1px solid #fff !important;
+    padding-bottom: 5px;
+  }
+
+  .swiffy-slider {
+    margin-top: -50px;
+    padding-left: 8px;
+  }
+  .swiffy-slider ul {
+    padding: 0 !important;
+  }
+  .swiffy-slider ul li {
+    padding: 0 !important;
+  }
+}
+@media only screen and (max-width: 321px) {
+  .text-area {
+    margin-top: -180px;
+    padding-top: 0 !important;
+    padding-bottom: 0;
+  }
+  .text-area h4 {
+    font-size: 20px !important;
+    font-family: "ITC Avant Garde Gothic Pro", sans-serif;
+    font-weight: 700;
+    color: #fff !important;
+  }
+  .text-area p {
+    display: none;
+  }
+  .text-area .link a {
+    color: #fff !important;
+    font-family: "avenir", sans-serif;
+    font-weight: 900;
+    font-size: 12px;
+    text-decoration: none;
+    border-bottom: 1px solid #fff !important;
+    padding-bottom: 5px;
+  }
+
+  .swiffy-slider ul {
+    padding: 0 !important;
+  }
+  .swiffy-slider ul li {
+    padding: 0 !important;
+  }
+}
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.clear {
+  clear: both;
+}
+
+.left-img {
+  width: 100%;
+  height: 100%;
+}
+.left-img img {
+  width: 100%;
+  height: 100%;
+}
+
+.col-md-6 {
+  padding-left: 120px;
+}
+
+.text-area {
+  padding-top: 96px;
+  padding-bottom: 96px;
+}
+.text-area h4 {
+  font-size: 31.25px;
+  font-family: "ITC Avant Garde Gothic Pro", sans-serif;
+  font-weight: 700;
+  color: #000;
+}
+.text-area p {
+  font-family: "avenir", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 25px;
+  color: #666666;
+  margin-top: 12px;
+  margin-bottom: 21px;
+}
+.text-area .link a {
+  color: #000;
+  font-family: "avenir", sans-serif;
+  font-weight: 900;
+  font-size: 12px;
+  text-decoration: none;
+  border-bottom: 1px solid #000;
+  padding-bottom: 5px;
+}
+
+.product {
+  width: 230px;
+}
+.product .product-img {
+  width: 100%;
+}
+.product .product-img img {
+  width: 100%;
+}
+.product .product-title {
+  font-family: "avenir", sans-serif;
+  font-weight: 400;
+  font-size: 12.8px;
+  line-height: 20.48px;
+  margin-top: 12px;
+  margin-bottom: 9px;
+  color: #000;
+}
+.product .product-info {
+  width: 100%;
+}
+.product .product-info .soft-green {
+  background-color: #99C3CC;
+}
+.product .product-info .brown {
+  background-color: #CC9999;
+}
+.product .product-info .lilac {
+  background-color: #CB99CC;
+}
+.product .product-info .green {
+  background-color: #A6CC99;
+}
+.product .product-info .price {
+  font-family: "avenir", sans-serif;
+  font-weight: 500;
+  font-size: 12.8px;
+  color: #000;
+  float: left;
+}
+.product .product-info .color {
+  float: right;
+  margin-right: 9px;
+  width: 12px;
+  height: 12px;
+  border-radius: 100%;
+  cursor: pointer;
+}
+.product .product-info .color-active {
+  border: 2px solid #000;
+}
